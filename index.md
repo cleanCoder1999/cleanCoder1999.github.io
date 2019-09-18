@@ -1,6 +1,4 @@
-# Welcome at
-## Lucas Müllner's - Homepage
-
+# Welcome at Lucas Müllner's - Homepage
 
 Hi there, I am glad to see you reached my personal website.
 
@@ -11,10 +9,11 @@ We would appreciate it and be very grateful, if you checked it out.
 > [Season Gem](www.seasongem.com)
 
 
+
 Nevertheless, let's get back to computer science. As a software developer you need to be able to access your sources, projects and documentations as fast as possible, in order to develop whenever and wherever you like. Therefore, I created a GitHub account some time ago, in which I put everything concerning computer science.
 
 Subsequent you find links which direct you to my GitHub repositories. Please note that my [Wiki](https://github.com/cleanCoder1999/Wiki) repository is not a common repository. It acts as a wiki where I document many different topics of computer science.
-***
+
 ### Repositories
 
 * [Wiki](https://github.com/cleanCoder1999/Wiki)
