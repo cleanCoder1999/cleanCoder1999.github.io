@@ -23,4 +23,4 @@ Down below you find links which direct you to my GitHub repositories. Please not
 * [HomeMatic_EXE](https://github.com/cleanCoder1999/HomeMatic_EXE)
   * _C#_ executable project for communicating with a HomeMatic device via XML-RPC over Ethernet
 * [AskiEco-Modbus-Controller](https://github.com/cleanCoder1999/AskiEco-Modbus-Controller)
-  * _Arduino_ project for controlling a Aski-Eco-Controller via TCP Modbus connection
+  * _Arduino_ project for controlling an Aski-Eco-Controller via TCP Modbus connection
